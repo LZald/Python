@@ -1,5 +1,3 @@
-#Probando que todo esto funcione
-
 import os
 import time
 from Vehiculos import Coche
