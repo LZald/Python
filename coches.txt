@@ -1,0 +1,3 @@
+Fiat;Leon;Blanco;caract11;caract12
+Seat;Multipla;Rojo;caract21
+Aston Martin;DB11;Negro;caract31;caract32;caract33;caract34;caract35;caract36
